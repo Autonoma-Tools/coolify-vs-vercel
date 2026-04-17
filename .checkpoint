@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "slug": "coolify-vs-vercel",
+  "step": "created",
+  "completed_specs": [],
+  "pending_specs": ["github-actions-workflow", "autonoma-api-trigger"],
+  "created_at": "2026-04-17T00:00:00Z",
+  "updated_at": "2026-04-17T00:00:00Z"
+}
